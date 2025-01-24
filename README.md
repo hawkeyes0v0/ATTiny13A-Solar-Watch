@@ -8,9 +8,9 @@ This redesign is meant for use with a 5.5v 0.5-10F supercapacitor. given 10 minu
 
 Slowly charges to about 4v max under strong indoor lighting.
 
-![DigiSpark](Front.PNG)
+![DigiSpark](Front.PNG?)
 
-![DigiSpark](Back.PNG)
+![DigiSpark](Back.PNG?)
 
 
 
